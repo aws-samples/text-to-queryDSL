@@ -1,4 +1,4 @@
-# Text-To-Query DSL with Synthetic Data
+# Text-To-Query DSL with Synthetic Data Leveraging Claude3 Models
 
 This repository provides guideance on prompting techniques for text-to-DSL query generation (the query language used for Elasticserach and Opensearch) as well as synthetic data to improve development efficiency. OpenSearch provides a search language called query domain-specific language (DSL) that you can use to search your data and this notebook will walk through how to use LLMs to create the queries based on natural language.
 
